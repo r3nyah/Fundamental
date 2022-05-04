@@ -11,12 +11,21 @@ class Hero extends StatelessWidget {
     return
       Scaffold(
         appBar: AppBar(
-            title: Text('Third Test'),
+            title: Text('Fourth Test'),
             centerTitle: true,
             backgroundColor: Colors.purple[700]
         ),
         body: Center(
-          child: Image.asset('assets/moona.jpg'),
+          child: RaisedButton.icon(
+            onPressed: () {},
+            icon: Icon(
+              Icons.ac_unit,
+              size: 75.0,
+              color: Colors.lightBlue[800],
+            ),
+            label: Text('Clicked meh!'),
+          ),
+          //child: Image.asset('assets/moona.jpg'),
           //child: Image.network('https://pbs.twimg.com/media/FRuXpWBaIAAP3vk?format=jpg&name=small'),
         ),
         floatingActionButton: FloatingActionButton(
