@@ -15,11 +15,22 @@ class Hero extends StatelessWidget {
             centerTitle: true,
             backgroundColor: Colors.purple[700]
         ),
-        body: Container(
-          padding: EdgeInsets.fromLTRB(10.0, 20.0, 30.0, 40.0),
-          margin: EdgeInsets.all(30.0),
-          color: Colors.grey[500],
-          child: Text('Hellow'),
+        body: Row(
+          mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+          crossAxisAlignment: CrossAxisAlignment.end,
+          children: [
+            Text('Hello World'),
+            FlatButton(
+              onPressed: (){},
+              color: Colors.amber,
+              child: Text('Click meh!'),
+            ),
+            Container(
+              color: Colors.cyan[500],
+              padding: EdgeInsets.all(30.0),
+              child: Text('dis is inside container')
+            ),
+          ],
         ),
         floatingActionButton: FloatingActionButton(
           backgroundColor: Colors.blue[800],
