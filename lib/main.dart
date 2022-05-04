@@ -11,24 +11,16 @@ class Hero extends StatelessWidget {
     return
       Scaffold(
         appBar: AppBar(
-            title: Text('Second Test'),
+            title: Text('Third Test'),
             centerTitle: true,
             backgroundColor: Colors.purple[700]
         ),
         body: Center(
-          child: Text(
-            'Hello Wolld!',
-            style: TextStyle(
-              fontSize: 20.0,
-              fontWeight: FontWeight.bold,
-              letterSpacing: 2.0,
-              color: Colors.grey[600],
-              fontFamily: 'IndieFlower',
-            ),
-          ),
+          child: Image.asset('assets/moona.jpg'),
+          //child: Image.network('https://pbs.twimg.com/media/FRuXpWBaIAAP3vk?format=jpg&name=small'),
         ),
         floatingActionButton: FloatingActionButton(
-          backgroundColor: Colors.red[600],
+          backgroundColor: Colors.blue[800],
           onPressed: () {},
           child: Text('click'),
         ),
