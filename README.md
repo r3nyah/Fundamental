@@ -1,16 +1,32 @@
-# Fundamental
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## This repositories contain :
+- [x] Colours & Font. (Lesson 6)
+- [x] Stateless Widget & Hotreload. (Lesson 7)
+- [x] Images & Assets. (Lesson 8)
+- [x] Button & Icon. (Lesson 9)
+- [x] Container & Padding. (Lesson 10)
+- [x] Rows. (Lesson 11)
+- [ ] Coloumns. (Lesson 12)
+- [ ] Flutter outline & Shortcuts. (Lesson 13)
+- [ ] Expanded Widgets. (Lesson 14)
+- [ ] Ninja ID project. (Lesson 15)
+- [ ] Stateful Widget. (Lesson 16)
+- [ ] List of Data. (Lesson 17)
+- [ ] Custom Classes. (Lesson 18)
+- [ ] Card. (Lesson 19)
+- [ ] Extracting Widget. (Lesson 20)
+- [ ] Function as parameter. (Lesson 21)
+- [ ] Starting the World Time App. (Lesson 22)
+- [ ] Maps & Routing. (Lesson 23)
+- [ ] Widget Lifecylce. (Lesson 24)
+- [ ] Asynchronous Code. (Lesson 25)
+- [ ] Flutter Packages [http]. (Lesson 26)
+- [ ] World time API. (Lesson 27)
+- [ ] WorldTime Custom Class. (Lesson 28)
+- [ ] Error Handling. (Lesson 29)
+- [ ] Passing route data. (Lesson 30)
+- [ ] Formatting & Showing Dates. (Lesson 31)
+- [ ] Loaders / Spinners. (Lesson 32)
+- [ ] Ternary Operator. (Lesson 33)
+- [ ] List View Builder. (Lesson 34)
+- [ ] Updating the Time. (Lesson 35)
+  
