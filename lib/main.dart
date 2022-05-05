@@ -11,30 +11,40 @@ class Hero extends StatelessWidget {
     return
       Scaffold(
         appBar: AppBar(
-            title: Text('Seventh Test'),
+            title: Text('Eight Test'),
             centerTitle: true,
             backgroundColor: Colors.purple[700]
         ),
-        body: Column(
-            mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-            crossAxisAlignment: CrossAxisAlignment.end,
-            children: <Widget>[
-              Container(
-                padding: EdgeInsets.all(40.0),
-                color: Colors.amber,
-                child: Text('Three'),
-              ),
-              Container(
+        body: Row(
+          children: <Widget>[
+            Expanded(
+              flex: 3,
+                child: Image.asset('assets/moona.jpg')),
+            Expanded(
+              flex: 2,
+              child: Container(
                 padding: EdgeInsets.all(30.0),
-                color: Colors.redAccent,
-                child: Text('Two'),
-              ),
-              Container(
-                padding: EdgeInsets.all(20.0),
-                color: Colors.cyan,
+                color: Colors.purple[500],
                 child: Text('One'),
               ),
-            ]
+            ),
+            Expanded(
+              flex: 2,
+              child: Container(
+                padding: EdgeInsets.all(30.0),
+                color: Colors.blue[900],
+                child: Text('Two'),
+              ),
+            ),
+            Expanded(
+              flex: 2,
+              child: Container(
+                padding: EdgeInsets.all(30.0),
+                color: Colors.yellow[700],
+                child: Text('Three'),
+              ),
+            ),
+          ],
         ),
         floatingActionButton: FloatingActionButton(
           backgroundColor: Colors.blue[800],
