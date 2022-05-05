@@ -11,7 +11,7 @@
 - [x] ID-card project. (<a href="https://github.com/r3nyah/ID-card/tree/a782569ff41136f6f17725ee72c40bd718f45c43">Lesson 15</a>)
 - [x] Stateful Widget. (<a href="https://github.com/r3nyah/ID-card/tree/a7f8c08b1876aec284ff7a7e37189dc880f8c060">Lesson 16</a>)
 - [x] List of Data. (<a href="https://github.com/r3nyah/Quotes/tree/04dd3e3106aed76aa30bb8de3be20017d1cf455c">Lesson 17</a>)
-- [ ] Custom Classes. (Lesson 18)
+- [x] Custom Classes. (<a href="https://github.com/r3nyah/Quotes/tree/69682af6612e6ab2e394aecc3a7d5966ff261960">Lesson 18</a>)
 - [ ] Card. (Lesson 19)
 - [ ] Extracting Widget. (Lesson 20)
 - [ ] Function as parameter. (Lesson 21)
