@@ -11,7 +11,7 @@ class Hero extends StatelessWidget {
     return
       Scaffold(
         appBar: AppBar(
-            title: Text('Sixth Test'),
+            title: Text('Seventh Test'),
             centerTitle: true,
             backgroundColor: Colors.purple[700]
         ),
@@ -20,9 +20,9 @@ class Hero extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.end,
             children: <Widget>[
               Container(
-                padding: EdgeInsets.all(20.0),
-                color: Colors.cyan,
-                child: Text('One'),
+                padding: EdgeInsets.all(40.0),
+                color: Colors.amber,
+                child: Text('Three'),
               ),
               Container(
                 padding: EdgeInsets.all(30.0),
@@ -30,9 +30,9 @@ class Hero extends StatelessWidget {
                 child: Text('Two'),
               ),
               Container(
-                padding: EdgeInsets.all(40.0),
-                color: Colors.amber,
-                child: Text('Three'),
+                padding: EdgeInsets.all(20.0),
+                color: Colors.cyan,
+                child: Text('One'),
               ),
             ]
         ),
