@@ -7,7 +7,7 @@
 - [x] Rows. (<a href="https://github.com/r3nyah/Fundamental/tree/8964183682a47ac29ac569961ecf58e8876a5e60">Lesson 11</a>)
 - [x] Coloumns. (<a href="https://github.com/r3nyah/Fundamental/tree/8c9975e29c857ffcd53cce9497ccff239f7f7593">Lesson 12</a>)
 - [x] Flutter outline & Shortcuts. (<a href="https://github.com/r3nyah/Fundamental/tree/5a2cbdc882568f584a25d084834acf8dd13b9a9c">Lesson 13</a>)
-- [ ] Expanded Widgets. (Lesson 14)
+- [x] Expanded Widgets. (<a href="https://github.com/r3nyah/Fundamental/tree/d01d9d3549ea1d3c1635b9c2c8bb09f20435cf9f">Lesson 14</a>)
 - [ ] Ninja ID project. (Lesson 15)
 - [ ] Stateful Widget. (Lesson 16)
 - [ ] List of Data. (Lesson 17)
