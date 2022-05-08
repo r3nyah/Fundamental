@@ -24,8 +24,10 @@
 - [x] WorldTime Custom Class. (<a href="https://github.com/r3nyah/World_Time/tree/ee671264afcfda4b9cbe696a89700c6dc8850b99">Lesson 28</a>)
 - [x] Passing route data. (<a href="https://github.com/r3nyah/World_Time/tree/39347c2c45b412ae088637dedae8b239a4b1d0cf">Lesson 30</a>)
 - [x] Formatting & Showing Dates. (<a href="https://github.com/r3nyah/World_Time/tree/5e7824a9871d11a4519e6296e41e4a7b194b3aee">Lesson 31</a>)
-- [ ] Loaders / Spinners. (Lesson 32)
-- [ ] Ternary Operator. (Lesson 33)
-- [ ] List View Builder. (Lesson 34)
-- [ ] Updating the Time. (Lesson 35)
+- [x] Loaders / Spinners. (<a href="https://github.com/r3nyah/World_Time/tree/72f22428333516a6f1239bb70b608617dfb54b57">Lesson 32</a>)
+- [x] Ternary Operator. (<a href="https://github.com/r3nyah/World_Time/tree/cc8ed7837c994f17039cc954433f52a65eb5a9c9">Lesson 33</a>)
+- [x] List View Builder. (<a href="https://github.com/r3nyah/World_Time/tree/8e686bffaf10c3b166602a1c3617a55fd6c0e5ee">Lesson 34</a>)
+- [x] Updating the Time. (<a href="https://github.com/r3nyah/World_Time/tree/79517cc3c245035c512b0ff3edff7a1edf420f83">Lesson 35</a>)
+<br>
+<br>
   
