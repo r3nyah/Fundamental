@@ -22,7 +22,6 @@
 - [x] Flutter Packages [http]. (<a href="https://github.com/r3nyah/World_Time/tree/5ea6410aca4e82a4565c6bc12543ef8ebaf80035">Lesson 26</a>)
 - [x] World time API. (<a href="https://github.com/r3nyah/World_Time/tree/03feca39e984b13d98badc1eca3e0ca24c740c97">Lesson 27</a>)
 - [ ] WorldTime Custom Class. (Lesson 28)
-- [ ] Error Handling. (Lesson 29)
 - [ ] Passing route data. (Lesson 30)
 - [ ] Formatting & Showing Dates. (Lesson 31)
 - [ ] Loaders / Spinners. (Lesson 32)
